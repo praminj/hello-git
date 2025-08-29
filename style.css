@@ -15,4 +15,7 @@ h1 {
 p {
     font-size: 1.1em;
     margin: 20px;
+    line-height: 1.2;
+    text-align: left;
+    padding: 8px;
 }
