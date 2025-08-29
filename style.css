@@ -1,0 +1,18 @@
+/* Dummy CSS file for hello-git project */
+
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #007acc;
+    text-align: center;
+    margin-top: 40px;
+}
+
+p {
+    font-size: 1.1em;
+    margin: 20px;
+}
