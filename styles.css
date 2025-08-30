@@ -1,7 +1,10 @@
 body {
-  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  background-image: url(https://img.freepik.com/free-photo/top-view-delicious-coffee-beans-arrangement_23-2150691447.jpg?semt=ais_hybrid&w=740&q=80);
   font-family: sans-serif;
   padding: 20px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 h1 {
